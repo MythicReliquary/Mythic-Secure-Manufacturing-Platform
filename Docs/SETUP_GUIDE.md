@@ -2,6 +2,8 @@
 
 This bundle is designed to run fully offline (zero telemetry). Nothing is uploaded; there is no auto-updater.
 
+Privacy policy: `PRIVACY.md`.
+
 ## 1) What you installed
 - `devpacks-cli.exe`: Headless CLI tools (repair, hollowing, supports, QA, simulations, etc.).
 - `LSSBLauncher.exe` (optional): A local UI that runs the CLI on your machine (no network).

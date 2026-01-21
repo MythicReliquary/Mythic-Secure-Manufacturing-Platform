@@ -19,3 +19,6 @@ The application/launcher itself is proprietary and is not included in this repos
 
 ## Evaluations
 - To request an evaluation copy, email `support@mythicreliquary.com`
+
+## Privacy
+- Zero telemetry; see `Docs/PRIVACY.md`
